@@ -1,0 +1,7 @@
+C:\Documents and Settings\Bogdan\Рабочий стол\RL\RL_UnitTest\bin\Debug\RL_UnitTest.dll
+C:\Documents and Settings\Bogdan\Рабочий стол\RL\RL_UnitTest\bin\Debug\RL_UnitTest.pdb
+C:\Documents and Settings\Bogdan\Рабочий стол\RL\RL_UnitTest\bin\Debug\RL.exe
+C:\Documents and Settings\Bogdan\Рабочий стол\RL\RL_UnitTest\bin\Debug\RL.pdb
+C:\Documents and Settings\Bogdan\Рабочий стол\RL\RL_UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bogdan\Рабочий стол\RL\RL_UnitTest\obj\Debug\RL_UnitTest.dll
+C:\Documents and Settings\Bogdan\Рабочий стол\RL\RL_UnitTest\obj\Debug\RL_UnitTest.pdb

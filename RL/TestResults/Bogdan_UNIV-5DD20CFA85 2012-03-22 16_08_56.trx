@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c74d9d59-09ae-4dfa-84cc-438caf29087e" name="Bogdan@UNIV-5DD20CFA85 2012-03-22 16:08:56" runUser="UNIV-5DD20CFA85\Bogdan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="461c0636-803c-4d73-b03d-44081baa2b7c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Bogdan_UNIV-5DD20CFA85 2012-03-22 16_08_56">
+      <DeploymentItem filename="C:\Documents and Settings\Bogdan\Рабочий стол\RL\RL\bin\Debug\RL.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-03-22T16:08:56.1460923+02:00" queuing="2012-03-22T16:08:59.2605707+02:00" start="2012-03-22T16:09:00.0817515+02:00" finish="2012-03-22T16:10:35.8795019+02:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="UNIV-5DD20CFA85" outcome="Error" timestamp="2012-03-22T16:10:35.8594731+02:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="op_AdditionTest" storage="c:\documents and settings\bogdan\рабочий стол\rl\rl_unittest\bin\debug\rl_unittest.dll" id="41151e97-420a-2212-a949-32937892c588">
+      <Execution id="06d6802a-8989-4599-a687-ffff355e66a5" />
+      <TestMethod codeBase="C:/Documents and Settings/Bogdan/Рабочий стол/RL/RL_UnitTest/bin/Debug/RL_UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RL_UnitTest.RLTest, RL_UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="op_AdditionTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="41151e97-420a-2212-a949-32937892c588" executionId="06d6802a-8989-4599-a687-ffff355e66a5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="06d6802a-8989-4599-a687-ffff355e66a5" testId="41151e97-420a-2212-a949-32937892c588" testName="op_AdditionTest" computerName="UNIV-5DD20CFA85" duration="00:01:35.2870160" startTime="2012-03-22T16:09:00.5924859+02:00" endTime="2012-03-22T16:10:35.8795019+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="06d6802a-8989-4599-a687-ffff355e66a5">
+    </UnitTestResult>
+  </Results>
+</TestRun>
