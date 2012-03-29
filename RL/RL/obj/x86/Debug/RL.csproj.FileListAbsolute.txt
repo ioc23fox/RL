@@ -10,3 +10,5 @@ C:\Documents and Settings\Bogdan\Рабочий стол\RL\RL\bin\Debug\RL.pdb
 C:\Documents and Settings\Bogdan\Рабочий стол\RL\RL\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Bogdan\RL\RL\RL\obj\x86\Debug\RL.exe
 C:\Documents and Settings\Bogdan\RL\RL\RL\obj\x86\Debug\RL.pdb
+D:\Code\RL\RL\RL\obj\x86\Debug\RL.exe
+D:\Code\RL\RL\RL\obj\x86\Debug\RL.pdb
